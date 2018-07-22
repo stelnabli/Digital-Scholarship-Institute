@@ -1,6 +1,6 @@
 # Information Visualization with Raw
 
-Welcome, DSI cohort! Below you will find information about our session. You won't need to pre-install anything on your computer to participate, but you will absolutely need a laptop in order to create visualizations with the browser-based online tool RAWgraphs. Please email us if you have any questions before the session.
+Welcome, DSI cohort! Below you will find information about our session. You won't need to pre-install anything on your computer to participate, but **you will absolutely need a laptop in order to create visualizations with the browser-based online tool RAWgraphs**. Please email us if you have any questions before the session.
 
 ### Instructors
 
